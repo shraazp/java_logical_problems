@@ -1,0 +1,52 @@
+1) Output for stopwatch program:
+
+Press 1 to start the timer
+1
+Stop watch has been started!!!!
+Start time is 1629443524708 milliseconds
+Press 2 to stop the timer
+2
+Stop watch has been stopped!!!!
+Stop time is 1629443527773 milliseconds
+the elapsed time between start and end is 3065 milliseconds
+
+2) Output for reverse of a number program:
+
+Enter the number:
+12345
+Reverse of 12345 is 54321
+
+3) Output for coupon numbers program:
+
+Enter the value of n
+5
+Enter the 5 distinct coupon numbers
+8 2 5 9 1
+Number of random numbers is 18
+
+4) Output for Fibonacci program:
+
+Enter the number:
+10
+The fibonacci series for 10 is
+0 1 1 2 3 5 8 13 21 34 
+
+5) Output for perfect number program:
+
+Enter the number:
+28
+28 is a perfect number!!!
+
+Enter the number:
+32
+32 is not a perfect number!!!
+
+6)Output for prime number program:
+
+Enter the number:
+23
+23 is a prime number
+
+Enter the number:
+24
+24 is not a prime number
