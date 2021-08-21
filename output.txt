@@ -24,6 +24,12 @@ Enter the 5 distinct coupon numbers
 8 2 5 9 1
 Number of random numbers is 18
 
+Enter the value of n
+7
+Number of random numbers is 11
+[7, 8, 5, 6, 3, 2, 9]
+
+
 4) Output for Fibonacci program:
 
 Enter the number:
